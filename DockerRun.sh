@@ -1,0 +1,1 @@
+docker run --runtime=nvidia -v `pwd`:`pwd` -w `pwd` -it --rm student1
